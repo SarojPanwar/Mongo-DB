@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "name": "The Art of Node.js",
+            "author": "Michael Chan",
+            "genre": "Programming",
+            "price": 599,
+            "publisher": "Tech Masters Publishing"
+        },
+        {
+            "id": "2",
+            "name": "Bootstrap Essentials",
+            "author": "Emily Carter",
+            "genre": "Web Development",
+            "price": 499,
+            "publisher": "CodeCraft Publications"
+        },
+        {
+            "id": "3",
+            "name": "Spiritual Wonders of Uttarakhand",
+            "author": "Ravi Sharma",
+            "genre": "History & Culture",
+            "price": 799,
+            "publisher": "Himalayan Heritage Press"
+        }
+    ]
+}
