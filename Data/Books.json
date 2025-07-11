@@ -5,7 +5,7 @@
             "name": "The Art of Node.js",
             "author": "Michael Chan",
             "genre": "Programming",
-            "price": 599,
+            "price": "599",
             "publisher": "Tech Masters Publishing"
         },
         {
@@ -13,7 +13,7 @@
             "name": "Bootstrap Essentials",
             "author": "Emily Carter",
             "genre": "Web Development",
-            "price": 499,
+            "price": "499",
             "publisher": "CodeCraft Publications"
         },
         {
@@ -21,7 +21,7 @@
             "name": "Spiritual Wonders of Uttarakhand",
             "author": "Ravi Sharma",
             "genre": "History & Culture",
-            "price": 799,
+            "price": "799",
             "publisher": "Himalayan Heritage Press"
         }
     ]
