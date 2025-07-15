@@ -16,3 +16,12 @@ model>>
     name:
     age:
     gender:
+
+Redmi note 8 pro
+amazon:18K
+flipkart:10k
+
+ Foreing Key:
+ >> Referential Integrity
+    Users Table       Books Table    
+    issuedbook:3(foreing key here)     issuedBook:2 (primary key)

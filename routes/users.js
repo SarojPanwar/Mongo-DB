@@ -1,7 +1,7 @@
 const express=require('express');
 const router=express.Router();
 const { users }=require("../Data/users.json");
-
+const { userModel , bookModel } = require("../models/index");
 
 /**
  * Route: /
