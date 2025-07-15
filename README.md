@@ -1,10 +1,5 @@
-MVC ARch => Controlllers
->>M :Modal(it depicts the structure of mongodb collections)
->>V : View(wrt to fronted(react js))
->> C: Controllers(Branch or logical part of a route)
-    >> books.controllers.js
-    >>users.controllers.js
 
+<<<<<<< HEAD
 schema>>
     id :String
     name: String
@@ -25,3 +20,5 @@ flipkart:10k
  >> Referential Integrity
     Users Table       Books Table    
     issuedbook:3(foreing key here)     issuedBook:2 (primary key)
+=======
+>>>>>>> 7d3de15fce0e77caee8656a4a4e6f539a1bfd2d6
